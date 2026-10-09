@@ -9,6 +9,18 @@ An end-to-end Power BI project: raw customer data → Power Query → DAX measur
 
 ---
 
+## 📸 Dashboard Preview
+
+**Page 1: Executive Overview**
+
+![Customer Retention Analytics: Executive Overview page](Dashboard%201.png)
+
+**Page 2: Customer Retention Analysis**
+
+![Customer Retention Analytics: Customer Retention Analysis page](Dashboard%202.png)
+
+---
+
 ## 1. 🔍 Overview
 
 I built this dashboard to analyse **customer churn and retention for a telecom provider** in **California**. The data covers **7,043 customers** over one quarter (Q3): their contracts, services, charges, satisfaction scores and the reasons churned customers gave for leaving.
@@ -208,6 +220,6 @@ Every customer who scored 1 or 2 churned, and none who scored 4 or 5 did. The sc
 **Tajudeen Gbenga Rabiu** | Data Analyst · Power BI · SQL · Python · Excel
 
 - 💼 LinkedIn: [linkedin.com/in/tajudeen-rabiu-data](https://www.linkedin.com/in/tajudeen-rabiu-data)
-- 📧 Email: [rabiutajudeen77@gmail.com](mailto:rabiutajudeen@gmail.com)
+- 📧 Email: [rabiutajudeen77@gmail.com](mailto:rabiutajudeen77@gmail.com)
 
 ⭐ If you found this project useful, please star the repository.

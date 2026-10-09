@@ -11,6 +11,12 @@ An end-to-end Power BI project: 7 raw CSV files → Power Query → star-schema 
 
 ---
 
+## 📸 Dashboard Preview
+
+![Retail Sales Analytics: Sales Overview dashboard](Dashboard.png)
+
+---
+
 ## 1. 🔍 Overview
 
 I built this dashboard to analyse **one year of sales for a multi-store retailer**. The data covers **1,000,000 transactions** from **2 Jan to 26 Dec 2024**, across **500 stores in 50 US cities**, **210 products**, **2,000 salespeople**, **100,000 customers** and **50 marketing campaigns**.
