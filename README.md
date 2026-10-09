@@ -2,11 +2,6 @@
 <h1 align="center">👋 Hi, I'm Tajudeen Gbenga Rabiu</h1>
 <h3 align="center">📊 Data Analyst | Power BI · SQL · Python · Excel</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Akure,%20Nigeria-1f6feb?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Data%20Analyst%20roles-2ea44f?style=flat-square" alt="Open to work"/>
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
