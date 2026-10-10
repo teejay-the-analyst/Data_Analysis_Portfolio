@@ -221,6 +221,6 @@ The two unique sales ID columns took up more than half of the data model. Removi
 | Data Analyst · Power BI · SQL · Python · Excel
 
 - 💼 LinkedIn: [linkedin.com/in/tajudeen-rabiu-data](https://www.linkedin.com/in/tajudeen-rabiu-data)
-- 📧 Email: [rabiutajudeen77@gmail.com](mailto:rabiutajudeen77@gmail.com)
+- 📧 Email: [tjrabiu.data@gmail.com](mailto:tjrabiu.data@gmail.com)
 
 ⭐ If you found this project useful, please star the repository.
