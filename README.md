@@ -17,4 +17,4 @@ PowerBi/
 
 ---
 
-👤 More about me: [github.com/teejay-the-analyst](https://github.com/teejay-the-analyst) · 💼 [LinkedIn](https://www.linkedin.com/in/tajudeen-rabiu-data) · 📧 [rabiutajudeen77@gmail.com](mailto:rabiutajudeen77@gmail.com)
+👤 More about me: [github.com/teejay-the-analyst](https://github.com/teejay-the-analyst) · 💼 [LinkedIn](https://www.linkedin.com/in/tajudeen-rabiu-data) · 📧 [tjrabiu.data@gmail.com](mailto:tjrabiu.data@gmail.com)
